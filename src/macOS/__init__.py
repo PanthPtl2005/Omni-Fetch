@@ -1,0 +1,1 @@
+"""macOS log extraction package."""
